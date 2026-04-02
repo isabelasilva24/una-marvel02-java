@@ -1,3 +1,5 @@
+Observação: as imagens o nome de user está adriano, pois esse notebool é do antigo dono e eu não consigo mudar.
+
 # 🧠 Projeto: Marvel Switch (Java)
 
 ## 📌 Descrição
